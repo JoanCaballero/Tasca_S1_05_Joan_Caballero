@@ -3,11 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Tasca_S1_05_JoanCaballero3.iml" filepath="$PROJECT_DIR$/.idea/Tasca_S1_05_JoanCaballero3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Tasca_S1_05_JoanCaballero/n1exercici1/n1exercici1.iml" filepath="$PROJECT_DIR$/Tasca_S1_05_JoanCaballero/n1exercici1/n1exercici1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Tasca_S1_05_JoanCaballero/n1exercici2/n1exercici2.iml" filepath="$PROJECT_DIR$/Tasca_S1_05_JoanCaballero/n1exercici2/n1exercici2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Tasca_S1_05_JoanCaballero/n1exercici3/n1exercici3.iml" filepath="$PROJECT_DIR$/Tasca_S1_05_JoanCaballero/n1exercici3/n1exercici3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Tasca_S1_05_JoanCaballero/n1exercici4/n1exercici4.iml" filepath="$PROJECT_DIR$/Tasca_S1_05_JoanCaballero/n1exercici4/n1exercici4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Tasca_S1_05_JoanCaballero/n1exercici5/n1exercici5.iml" filepath="$PROJECT_DIR$/Tasca_S1_05_JoanCaballero/n1exercici5/n1exercici5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n1exercici1/n1exercici1.iml" filepath="$PROJECT_DIR$/n1exercici1/n1exercici1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n1exercici2/n1exercici2.iml" filepath="$PROJECT_DIR$/n1exercici2/n1exercici2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n1exercici3/n1exercici3.iml" filepath="$PROJECT_DIR$/n1exercici3/n1exercici3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n1exercici4/n1exercici4.iml" filepath="$PROJECT_DIR$/n1exercici4/n1exercici4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n1exercici5/n1exercici5.iml" filepath="$PROJECT_DIR$/n1exercici5/n1exercici5.iml" />
     </modules>
   </component>
 </project>

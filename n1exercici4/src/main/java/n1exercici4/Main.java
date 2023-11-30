@@ -7,7 +7,7 @@ public class Main {
         //"C:\\Users\\formacio\\Desktop\\JC"
         //"directoris.txt"
         GestioDirectori gestioDirectori = new GestioDirectori();
-        gestioDirectori.llegirTxt("directoris.txt");
+        gestioDirectori.llegirTxt(args[0]);
     }
 }
 

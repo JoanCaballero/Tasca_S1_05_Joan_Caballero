@@ -15,7 +15,6 @@
                 </configuration>
             </plugin>
         </plugins>
-        <directory>n1exercici5</directory>
     </build>
 
     <groupId>org.example</groupId>
