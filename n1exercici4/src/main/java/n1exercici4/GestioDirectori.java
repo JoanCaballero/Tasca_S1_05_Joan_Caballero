@@ -37,13 +37,17 @@ public class GestioDirectori {
             System.out.println(e.getMessage());
         }
     }*/
-    public void llegirTxt(String nomArxiu) throws IOException {
-        FileReader fr = new FileReader(nomArxiu);
-        BufferedReader br = new BufferedReader(fr);
-        String linea;
-        while((linea = br.readLine()) != null){
-            System.out.println(linea);
+    public void llegirTxt(String nomArxiu) {
+        try {
+            FileReader fr = new FileReader(nomArxiu);
+            BufferedReader br = new BufferedReader(fr);
+            String linea;
+            while ((linea = br.readLine()) != null) {
+                System.out.println(linea);
+            }
+            br.close();
+        }catch(IOException e){
+            System.out.println(e.getMessage());
         }
-        br.close();
     }
 }

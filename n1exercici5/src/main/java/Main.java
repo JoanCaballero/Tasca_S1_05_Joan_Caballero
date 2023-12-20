@@ -1,7 +1,7 @@
 import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         //"C:\\Users\\formacio\\Desktop\\JC"
         //"directoris.txt"
         Persona persona = new Persona("Joan", 24);

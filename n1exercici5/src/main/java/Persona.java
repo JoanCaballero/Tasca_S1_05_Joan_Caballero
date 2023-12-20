@@ -1,8 +1,8 @@
 import java.io.Serializable;
 
 public class Persona implements Serializable {
-    String nom;
-    int edat;
+    private String nom;
+    private int edat;
 
     public Persona(String nom, int edat){
         this.nom = nom;
